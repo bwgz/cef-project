@@ -30,7 +30,7 @@ APPEND_PLATFORM_SOURCES(EXAMPLE_RESOURCES_SRCS)
 #
 
 # Target executable names.
-set(EXAMPLE_TARGET "gtk_cef")
+set(EXAMPLE_TARGET "gtk")
 
 
 #
